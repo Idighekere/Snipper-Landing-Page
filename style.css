@@ -214,6 +214,7 @@ img {
     }
     .snippet {
         width: 250px;
+        align-self: center;
     }
 
     .footer {
@@ -227,12 +228,11 @@ img {
         align-items: center;
     }
     .footer ul li {
-        font-size: 14px;
         padding: 0 1em;
         margin-left: 0;
     }
 
-    .main-nav, .section1-container{
+    .footer, .main-nav, .section1-container{
         padding: 0 1em;}
 }
 
