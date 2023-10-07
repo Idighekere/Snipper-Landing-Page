@@ -221,8 +221,8 @@ img {
         align-items: center
     }
 
-     {
-        width: 150px;
+    .menu-list {
+        flex-direction: column;
     }
     .footer ul li {
         font-size: 14px;
