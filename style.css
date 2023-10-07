@@ -212,7 +212,7 @@ img {
         text-align: center;
         align-items: center;
     }
-    .section2-container {
+    .snippet {
         width: 180px;
     }
 
@@ -221,7 +221,7 @@ img {
         align-items: center
     }
 
-    .footer img {
+     {
         width: 150px;
     }
     .footer ul li {
@@ -229,7 +229,7 @@ img {
         padding: 0 1em;
     }
 
-    .main-nav, .two,.section1-container,.footer{
+    .main-nav, .section1-container{
         padding: 0 1em;}
 }
 
