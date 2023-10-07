@@ -221,6 +221,9 @@ img {
     .footer img {
         width: 150px;
     }
+
+    .main-nav, .two,.one,footer{
+        padding: 0 1em;}
 }
 
 .active {
