@@ -212,6 +212,9 @@ img {
         text-align: center;
         align-items: center;
     }
+    .section2-container {
+        width: 180px;
+    }
 
     .footer {
         flex-direction: column;
@@ -223,6 +226,7 @@ img {
     }
     .footer ul li {
         font-size: 14px;
+        padding: 0 1em;
     }
 
     .main-nav, .two,.section1-container,.footer{
