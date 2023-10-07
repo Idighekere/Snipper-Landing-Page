@@ -211,9 +211,6 @@ img {
     .section2-container {
         width: 100%;
         order: 2;
-        text-align: center;
-        align-items: center;
-        
     }
     
     .snippet {
