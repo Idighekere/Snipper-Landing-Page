@@ -215,6 +215,8 @@ img {
     .snippet {
         width: 250px;
         align-self: center;
+        padding: 2em;
+        justify-content:center;
     }
 
     .footer {
@@ -228,7 +230,7 @@ img {
         align-items: center;
     }
     .footer ul li {
-        padding: 0 1em;
+        padding: 1em 1em;
         margin-left: 0;
     }
 
