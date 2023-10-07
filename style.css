@@ -241,7 +241,9 @@ img {
     .footer, .main-nav, .section1-container{
         padding: 0 1em;
     }
-
+.footer{
+    padding-bottom: 2em;
+}
     .main-nav {
         position: fixed;
         top: 0;
